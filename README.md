@@ -14,7 +14,7 @@ The main things I learned from this project is how to manipulate files. I learne
 
 ## Future Updates
 
-While this script does the job of making a .txt file unreadable to humans, I would like to revamp this program to be able to take in all file formats, and to actually encode the file rather than just switching up some characters so computers can't even read it.
+While this script does the job of making a .txt file unreadable to humans, I would like to revamp this program to be able to take in all file formats, and to actually encode the file rather than just switching up some characters so computers can't even read it. Also the UI is terrible so a better looking one would be much nicer.
 
 ## How to Use
 
