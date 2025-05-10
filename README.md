@@ -1,4 +1,4 @@
-# File Encoder
+# File Encoder v1.0
 This project was made to develop my skills in file handling and manipulation. It takes an input from a .txt file and encodes the characters based on a cipher I made and allows for the downloading of both the encoded and decoded formats.
 
 ## How It's Made
